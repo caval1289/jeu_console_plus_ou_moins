@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1608747657 source:c:\users\cavaleri\onedrive\bureau\openclassrooms langage c\1eretp plus au moin\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
